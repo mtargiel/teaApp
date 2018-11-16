@@ -1,0 +1,8 @@
+# Nazwa herbaty, typ herbaty, temperatura parzenia, czas parzenia, specjalne własności
+
+Gunpowder Czarny, czarna, 90, 3, 
+Sen o smoku, czarna, 96, 3, ostra: z pieprzem i imbirem, 
+Lapacho, napar, 96, 10, 
+Mięta, napar, 96, 5, 
+Uśmiech Ananasa, owocowa, 96, 5, 
+Gunpowder Zielony, zielona, 70, 3, 

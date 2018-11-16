@@ -1,0 +1,9 @@
+Zielone Marzenie, zielona, 70, 3, 
+Uśmiech Ananasa, owocowa, 96, 5, 
+Sen o smoku, czarna, 96, 3, ostra: z pieprzem i imbirem
+Mięta, napar, 96, 5, 
+Lapacho, napar, 96, 10, 
+Gunpowder Zielony, zielona, 70, 3, 
+Gunpowder Czarny, czarna, 90, 3, 
+
+# Nazwa herbaty, typ herbaty, temperatura parzenia, czas parzenia, specjalne własności
